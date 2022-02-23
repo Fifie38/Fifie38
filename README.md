@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Evan's github stats](https://github-readme-stats.vercel.app/api?username=Fifie38)
+
 ![Evan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fifie38)
