@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 
 
-![Evan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fifie38)
+![Evan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fifie38&theme=city_lights)
