@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ![Evan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fifie38&theme=city_lights)
 
 ![Evan's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs?username=Fifie38&theme=city_lights)
+
+ <img src="https://komarev.com/ghpvc/?username=Fifie38&style=for-the-badge&logo=Streamlit&color=blueviolet&logo=Bookmeter">
